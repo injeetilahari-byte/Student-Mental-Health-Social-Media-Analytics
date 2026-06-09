@@ -128,7 +128,7 @@ Features:
 - Geographic trends
 - Regional insights
 
-![Country Analysis](dashboard_page5.png)
+![Country Analytics](dashboard_page5.png)
 
 ---
 
